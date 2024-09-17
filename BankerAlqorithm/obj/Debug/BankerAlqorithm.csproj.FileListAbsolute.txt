@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\BankerAlqorithm\BankerAlqorithm\bin\Debug\BankerAlqorithm.exe.config
+C:\Users\User\Desktop\BankerAlqorithm\BankerAlqorithm\bin\Debug\BankerAlqorithm.exe
+C:\Users\User\Desktop\BankerAlqorithm\BankerAlqorithm\bin\Debug\BankerAlqorithm.pdb
+C:\Users\User\Desktop\BankerAlqorithm\BankerAlqorithm\obj\Debug\BankerAlqorithm.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\BankerAlqorithm\BankerAlqorithm\obj\Debug\BankerAlqorithm.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\BankerAlqorithm\BankerAlqorithm\obj\Debug\BankerAlqorithm.exe
+C:\Users\User\Desktop\BankerAlqorithm\BankerAlqorithm\obj\Debug\BankerAlqorithm.pdb
+C:\Users\User\Desktop\C# tasks\BankerAlqorithm\BankerAlqorithm\bin\Debug\BankerAlqorithm.exe.config
+C:\Users\User\Desktop\C# tasks\BankerAlqorithm\BankerAlqorithm\bin\Debug\BankerAlqorithm.exe
+C:\Users\User\Desktop\C# tasks\BankerAlqorithm\BankerAlqorithm\bin\Debug\BankerAlqorithm.pdb
+C:\Users\User\Desktop\C# tasks\BankerAlqorithm\BankerAlqorithm\obj\Debug\BankerAlqorithm.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C# tasks\BankerAlqorithm\BankerAlqorithm\obj\Debug\BankerAlqorithm.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C# tasks\BankerAlqorithm\BankerAlqorithm\obj\Debug\BankerAlqorithm.exe
+C:\Users\User\Desktop\C# tasks\BankerAlqorithm\BankerAlqorithm\obj\Debug\BankerAlqorithm.pdb
